@@ -1,0 +1,16 @@
+/* 
+    Document   : main
+    Created on : Oct 16, 2013, 9:17:28 PM
+    Author     : dsmith110
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+body {
+    background-color: aqua;
+}
+
